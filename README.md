@@ -150,7 +150,7 @@ credit-loan-prediction/
 ## 🚀 Run Locally
 
 **1. Clone the repository**
-git clone https://github.com/YOUR_USERNAME/credit-loan-prediction.git
+git clone [https://github.com/vishalvermacore/credit-loan-prediction.git](https://github.com/vishalvermacore/credit-loan-prediction)
 cd credit-loan-prediction
 
 **2. Install dependencies**
