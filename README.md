@@ -1,4 +1,4 @@
-# 🏦 CreditWise — Loan Approval Prediction System
+# 🏦 SecureBank — Loan Approval Prediction System
 
 > An intelligent machine learning system built for **SecureTrust Bank** to automate and improve loan approval decisions using historical applicant data.
 
