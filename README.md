@@ -1,4 +1,4 @@
-# 🏦 SecureBank — Loan Approval Prediction System
+# 🏦 LoanSense - Intelligent Loan Approval System
 
 > An intelligent machine learning system built for **SecureTrust Bank** to automate and improve loan approval decisions using historical applicant data.
 
